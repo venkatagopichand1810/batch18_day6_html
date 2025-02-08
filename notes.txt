@@ -1,0 +1,1 @@
+when we create any FE application..the first file name should be index.html
